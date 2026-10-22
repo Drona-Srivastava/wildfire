@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+models/*.pt
+outputs/
+
+# Local MATLAB preferences and generated Simulink build/cache files
+.matlab_prefs/
+slprj/
+simulation/slprj/
+*.slxc
+
